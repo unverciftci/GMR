@@ -1,0 +1,2 @@
+# GNR
+Generative Models Regression
